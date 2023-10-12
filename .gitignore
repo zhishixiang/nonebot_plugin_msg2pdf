@@ -1,0 +1,7 @@
+nonebot_plugin_msg2pdf/msg2pdf/__pycache__/
+nonebot_plugin_msg2pdf/msg2pdf/__pycache__/
+.venv
+pyproject.toml
+pyproject.toml
+.env.prod
+bot.py
